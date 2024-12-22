@@ -98,15 +98,11 @@ Este proyecto está desarrollado utilizando las siguientes tecnologías:
 
 **¡Gracias a todos los que han hecho posible este proyecto!**
 
-### Project Manager 
-
-![Belen Cavagion](https://github.com/BCavagion.png?size=60)
+### Team Back-End
+[![Contribuidores](https://contrib.rocks/image?repo=igrowker/i004-mindup-back&max=500&columns=20)](https://github.com/igrowker/i004-mindup-back/graphs/contributors)
 
 ### Team Front-End
 [![Contribuidores](https://contrib.rocks/image?repo=igrowker/i004-mindup-front&max=500&columns=20)](https://github.com/igrowker/i004-mindup-front/graphs/contributors)
-
-### Team Back-End
-[![Contribuidores](https://contrib.rocks/image?repo=igrowker/i004-mindup-back&max=500&columns=20)](https://github.com/igrowker/i004-mindup-back/graphs/contributors)
 
 ### DevOps
 
@@ -119,10 +115,6 @@ Este proyecto está desarrollado utilizando las siguientes tecnologías:
 - [Mercedes Godoy](https://www.linkedin.com/in/mercedesgodoydajer/)
 - [Claudia Stocco](https://www.linkedin.com/in/claudia-stocco/)
 
-### QA
-
-- [Nicolas Prieto](https://www.linkedin.com/in/nicolas-patricio-prieto-602908213/)
-- [Gabriela Castillo](https://www.linkedin.com/in/itsgabrielaflorencia/)
 
 ---
 
